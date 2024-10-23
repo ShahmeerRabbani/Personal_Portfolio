@@ -13,14 +13,14 @@ import { Link } from "react-router-dom";
         icon: <SiGmail color="#fff" size={22}/>,
         label: "Email :",
         social: "shahmeerrabbani61@gmail.com",
-        link: false
+        link: null,
       },
       {
         id: 2,
         icon: <IoIosPhonePortrait color="#fff" size={22}/>,
         label: "Phone :",
         social: "+92 317 2980810",
-        link: false
+        link: null,
       },
       {
         id: 3,
@@ -34,7 +34,7 @@ import { Link } from "react-router-dom";
         icon: <FaMapLocationDot color="#fff" size={22}/>,
         label: "Location :",
         social: "Orangi Town Karachi",
-        link: false
+        link: null,
       },
     ];
 
