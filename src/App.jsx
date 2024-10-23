@@ -39,7 +39,7 @@ const App = () => {
     <React.Fragment>
 
     <div className='Loader'>
-      <p className='loader_text' data-value={text}>{text}</p>
+      <p data-value={text}>{text}</p>
     </div>
 
     <div className='App'>
