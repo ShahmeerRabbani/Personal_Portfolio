@@ -14,7 +14,7 @@ const Contact = () => {
       <h1 className="animate_heading">Contact me</h1>
       <div className="pr-5">
         <iframe
-          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1655.340396085073!2d66.99935485432871!3d24.956552733446273!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3eb341eb57a5dbb5%3A0xd9b55a6a8cf10044!2sK.A%20Owaisya%20Benquet!5e0!3m2!1sen!2s!4v1728896135014!5m2!1sen!2s"
+          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d714.7793447740826!2d67.07796506951136!3d24.950239214562792!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3eb340a6fced6fe7%3A0x942c4c61219ba360!2sPlot%20R%20236%2C%20Federal%20B%20Area%20Al%20Noor%20Society%20Block%2019%20Gulberg%20Town%2C%20Karachi%2C%20Karachi%20City%2C%20Sindh%2C%20Pakistan!5e1!3m2!1sen!2s!4v1731047714509!5m2!1sen!2s"
           width="100%"
           height="450"
           style={{ borderRadius: "20px"}}
