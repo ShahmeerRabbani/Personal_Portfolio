@@ -29,13 +29,13 @@ import { Link } from "react-router-dom";
         social: "https://github.com/shahmeerRabbani",
         link: 'https://github.com/shahmeerRabbani'
       },
-      {
-        id: 4,
-        icon: <FaMapLocationDot color="#fff" size={22}/>,
-        label: "Location :",
-        social: "Orangi Town Karachi",
-        link: null,
-      },
+      // {
+      //   id: 4,
+      //   icon: <FaMapLocationDot color="#fff" size={22}/>,
+      //   label: "Location :",
+      //   social: "Orangi Town Karachi",
+      //   link: null,
+      // },
     ];
 
     return (
